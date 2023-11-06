@@ -1,0 +1,8 @@
+print ("Введите a1:")
+a1 = int(input())
+print ("Введите d:")
+d = int(input())
+print ("Введите n:")
+n = int(input())
+an = a1 + d*(n - 1)
+print (an)
